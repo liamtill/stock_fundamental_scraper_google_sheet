@@ -1,0 +1,5 @@
+.idea/
+venv/
+gsheets-py.json
+prior_tickers.csv
+ticker_cik.csv
